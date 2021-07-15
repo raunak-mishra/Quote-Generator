@@ -1,0 +1,26 @@
+.container{
+    text-align: center;
+
+}
+#button{
+    background: black;
+    width: 123px;
+    height: 60px;
+    border-radius: 13px;
+    color: white;
+    font-size: 18px;
+
+}
+button:hover{
+    opacity: 0.6;
+}
+.output{
+    margin: 23px;
+    text-align: center;
+}
+.inputClass{
+    width: 500px;
+    height: 100px;
+    border: 2px solid black;
+    border-radius: 24px;
+}
